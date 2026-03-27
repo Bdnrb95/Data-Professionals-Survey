@@ -66,7 +66,8 @@ The dashboard enables exploration of:
 
 Below is an overview of the Power BI dashboard analysing survey data from data professionals.
 
-![Power BI Dashboard Preview](["C:\Users\benbo\OneDrive\Pictures\Screenshots\Screenshot 2026-03-27 131410.png"](https://github.com/Bdnrb95/Data-Professionals-Survey/blob/main/Screenshot%202026-03-27%20131410.png))
+![Power BI Dashboard Preview](Screenshot 2026-03-27 132637.png
+)
 
 
 
